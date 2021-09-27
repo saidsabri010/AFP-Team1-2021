@@ -29,7 +29,14 @@ page where the main content will be seted up on.
 
 # Intended audience
 
-Intended to be used by anyone that wants to register 
-in the web application.
-it can be student , teachers ,anyone 
+Intended to be used by anyone who wants to register 
+for a web application account.
+it can be student , teachers ,anyone
+
+__User Needs__
+
+To use this web page, user needs to find the web page in any browser by using the name of the page, then the user can see the front of the web page which has a sign up and log in place so in order to register the user need to fill out his/her username which is email and enter password
+than log in.
+when user log in he/she can see the main page of the web application.
+
 
