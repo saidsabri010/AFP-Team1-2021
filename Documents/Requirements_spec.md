@@ -26,3 +26,10 @@ we chose Visual Studio Code"VSC" as text editor or an IDE to use and make
 our project because it's simple and straightforward to work on.
 our web application can let the user to create his/her own accounte and have the access to the index
 page where the main content will be seted up on.
+
+# Intended audience
+
+Intended to be used by anyone that wants to register 
+in the web application.
+it can be student , teachers ,anyone 
+
