@@ -12,3 +12,9 @@ We have agreed to develop a website for web design and devolepment course . The 
 
 __Script__
 User will be able to see the available course name's without registration and that can be done by the search engine, to have full access to the course's the user will need to register through the signup button or Join us button.
+
+__List Of Requirements__
+ 1-Search - The search function get the information from database according to the Data inputed.
+ 2-login - The login function let user login according to information from database.
+ 3-logout - The login function let user logout.
+ 4-sign up - The sign up function add user information to database.
