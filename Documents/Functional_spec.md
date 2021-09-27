@@ -37,3 +37,11 @@ Time characteristics. 
 In order to meet the user's efficient requirements, the response time of the data, the update processing time, the data conversion and transmission time, the running time should be within 1-5 seconds. When you need to interact with an external device, such as a printer, the response time may be long, but it should be within acceptable limits.
 
 The systems UI should be simple enough for a person to find out how it works just by looking at it.
+
+## Constrains :
+Design Constraints imposes limitations on the following things:
+* The running environment : Microsoft Visual Studio.
+* The operating system : Microsoft Windows 10.
+* the programming language, databases;
+* coding standards;
+* business logic, etc.
