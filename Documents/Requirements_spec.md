@@ -87,5 +87,13 @@ In this project we will be mainly working on these things :
 * Quality: this app should have good UI ,and high efficiency
 * Availability : how the app operates and functions.
 
+__Functional requirements__
+
+Login button  - by clicking this button the web sit will take you to your page.
+Search button - this function will work to find the available course that the user searched for.
+SignUp button - this function will take the user to the signup page.
+About button - this function will take the user to the about page.
+Contact button - this function will take the user to the contact page.
+JoinUs button - this function will take the user to the register for a course  page.
 
 
