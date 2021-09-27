@@ -70,6 +70,13 @@ But our main goal is to learn new technologies and show our ability to change at
 We want to make sure this application isnt all about the manipulation but also the user experience. If a user enjoys our design and is able to use the website with ease that can be considered a success. We as a team need to work together to make sure that our application can not only show off our skills in data manipulation and be a easy and enjoyable user experience, but also show how we can work as a team and these are the goals for our application.
 
 
+___Glossary__
+
+* HTML : The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+
+* CSS : is a style sheet language used for describing the presentation of a document written in a markup language such as HTML, CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
+* BOOTSTRAP : Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
 
 
 
