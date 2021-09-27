@@ -57,6 +57,12 @@ by using classes an id we can divied the work into neat bundles
 of code which offer a lot of functionality while still being very readable. the work should use simple functionality that will make code 
 neater throughout the entire project so the project will be very simple one.
 
+__current situation__
+
+As the world gets more and more efficent technology needs to move along with it, and so we have the idea to create an application that will make it very easy for the user to 
+register for now,we have decided how the project should look like and we have got a team of 5 people who will be working on it.
+
+
 
 
 
