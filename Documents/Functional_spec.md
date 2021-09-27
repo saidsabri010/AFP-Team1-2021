@@ -9,6 +9,7 @@ We, as a team setting up our environment to startup our group project with the f
 5. Rachid Aifar
 6. Pelle Marcell
 7. SHIYI WAN
+
 We have agreed to develop a website for web design and devolepment course . The website will have a simple login as well as search engine. Currently we are working on documentation which is an integral part of our website. This will give us ideas so that we will have a better understanding when it comes to implementation of our project.
 
 ## Script
@@ -17,11 +18,22 @@ User will be able to see the available course name's without registration and th
 
 ## List Of Requirements
 
- 1-Search - The search function get the information from database according to the Data inputed.
- 2-login - The login function let user login according to information from database.
- 3-logout - The login function let user logout.
- 4-sign up - The sign up function add user information to database.
+ 1. Search - The search function get the information from database according to the Data inputed.
+ 2. login - The login function let user login according to information from database.
+ 3. logout - The login function let user logout.
+ 4. sign up - The sign up function add user information to database.
 
 ## UI Plan
 
 The interface will be a not so complicated one, a simple login screen and logout and sign up and Search and a dashboard that will have buttons such as; About, Contact Us.a bit of explaination about web designing.
+
+## How the system should be and what it should not be  ?
+
+The system should be as simple as we can make it so that the user can easily use it,otherwise,it shouldn't be broken at any point,always working properly(maintenance) which means we should maintain our application to work properly and if any error shows up we have to catch it(for example : try,catch exception).
+
+Data requirements must be accurate, reliable and true. When you make an action request, such as finding, deleting, modifying, and adding, you should ensure that the input data matches the database data. When meeting the user's request, the system should ensure that the data in response to the inspection rate and accuracy rate.
+
+Time characteristics. 
+In order to meet the user's efficient requirements, the response time of the data, the update processing time, the data conversion and transmission time, the running time should be within 1-5 seconds. When you need to interact with an external device, such as a printer, the response time may be long, but it should be within acceptable limits.
+
+The systems UI should be simple enough for a person to find out how it works just by looking at it.
