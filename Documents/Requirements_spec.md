@@ -78,6 +78,14 @@ ___Glossary__
 
 * BOOTSTRAP : Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
 
+__Other Requirements__
+
+In this project we will be mainly working on these things : 
+* Performance : how the app reacts to the user’s requests.
+* Safety:try our best to avoid safety problem,like overflow
+* Security :  the way the app protects information.
+* Quality: this app should have good UI ,and high efficiency
+* Availability : how the app operates and functions.
 
 
 
