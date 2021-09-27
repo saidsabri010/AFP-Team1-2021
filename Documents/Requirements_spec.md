@@ -39,4 +39,12 @@ To use this web page, user needs to find the web page in any browser by using th
 than log in.
 when user log in he/she can see the main page of the web application.
 
+__System rules, patterns, recommendations__
+
+For this project we will use HTML and CSS and Bootstrap for the front in , basically for creat a web page ,
+for every problem ,we meet ,we will try to find good solution for it ,we will try to use good technology,
+such as visual studio code ,and some other compiler would also be fine for us.
+css and html will be the main language we use.
+
+
 
