@@ -45,3 +45,13 @@ Design Constraints imposes limitations on the following things:
 * the programming language, databases;
 * coding standards;
 * business logic, etc.
+* the programming language, HTML,CSS,Bootstrap.
+
+## REPORTS
+• REPORT MODULE
+The log in issued should have the details such as username ,gmail,
+cours name, time of departure. 
+ * COURS DETAILS
+ * CHECK AVAILABILITY
+ * REGISTER FOR COURS
+ * EXIT 
