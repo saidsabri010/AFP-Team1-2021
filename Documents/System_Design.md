@@ -24,6 +24,7 @@ In recent years, with the development of the Internet, the application of networ
 
 ## Overview
 
+A high level summary that every engineer at the company should understand and use to decide if it's useful for them to read the rest of the doc. It should be 3 paragraphs max.
 
 ## Design
 Page planning:
