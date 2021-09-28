@@ -74,20 +74,20 @@ cours name, time of departure.
 </tr>
   <tr>
     <th>K03</th>
-    <th>Tűrőképesség</th>
-  <th>Mivel a weblapot többen fogják használni így bírnia kell a nagyobb adatforgalmat is.</th>
+    <th></th>
+  <th></th>
     <tr>
     <th>K04</th>
-    <th>Barátságos felület</th>
-    <th>A felhasználót egy könnyen kezelhető barátságos felület fogadjon amiben el tud igazodni.</th>
+    <th></th>
+    <th></th>
       <tr>
       <th>K05</th>
-    <th>Aktivitási pont</th>
-  <th>A weblapon az aktív felhasználók jutalom pontot kapnak.</th>
+    <th></th>
+  <th></th>
 </tr>
 <tr>
     <th>K06</th>
-    <th>Adatbiztonság</th>
-  <th>Minden felhasználó azonosítva lessz illetve a felhasználó profilja is kap egy egyedi azonosítótt.</th>
+    <th></th>
+  <th></th>
 </tr>
 </table>
