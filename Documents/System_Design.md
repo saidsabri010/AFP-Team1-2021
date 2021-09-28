@@ -19,3 +19,8 @@ System design
 4. Headline for all tasks are the same: 15/10/2021
 
 5. Estimated Budget for the project is 2.000.000 Ft
+
+## Design
+Page planning:
+
+Front presentation: home page, detail page,search, register, login, logout
