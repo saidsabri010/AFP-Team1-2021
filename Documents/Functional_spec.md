@@ -64,13 +64,13 @@ cours name, time of departure.
 </tr>
 <tr>
     <th>K01</th>
-    <th>Alkalmazkodás</th>
-  <th>A weblap képes legyen minden eszközön ugyanolyan formában megjelenni.</th>
+    <th>Search</th>
+  <th>The search function get the information from database according to the Data inputed.</th>
 </tr>
 <tr>
     <th>K02</th>
-    <th>Skálázhatóság</th>
-  <th>Az adatok mennyiségének változását jól tudja kezelni és, ha bővíteni kell akkor az sem okoz fenakadást.</th>
+    <th></th>
+  <th></th>
 </tr>
   <tr>
     <th>K03</th>
