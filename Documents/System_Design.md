@@ -48,3 +48,6 @@ the tester should have the ability to understand customers point of view,then we
 program,the goal is to test the whole program to see what will happen,
 if anything uxpected occure ,then we need to fix them.
 
+## Maintenance plan
+Since the interface was designed to be as dynamic as possible, the only part of the web that could require maintenance
+is the data API itself. This information can easily be changed by adjusting a single variable in the code,
