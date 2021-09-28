@@ -55,12 +55,12 @@ cours name, time of departure.
  * CHECK AVAILABILITY
  * REGISTER FOR COURS
  * EXIT
-<H4>7. Követelménylista: </H4>
+<H4>7. List Of Requirements: </H4>
 <table> 
   <tr>
-    <th>Követelmény sorszáma</th>
-    <th>Követelmény megnevezése</th> 
-    <th>Követelmény kifejtése</th>
+    <th>Requirement number</th>
+    <th>Requirement title</th> 
+    <th>Requirement description</th>
 </tr>
 <tr>
     <th>K01</th>
