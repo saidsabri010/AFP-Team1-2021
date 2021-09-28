@@ -26,6 +26,10 @@ In recent years, with the development of the Internet, the application of networ
 
 A high level summary that every engineer at the company should understand and use to decide if it's useful for them to read the rest of the doc. It should be 3 paragraphs max.
 
+## Goals
+
+describe the user-driven impact of your project ' where your user might be another engineering team or even another technical system specify how to measure success using metrics ' bonus points if you can link to a dashboard that tracks those metrics Non-Goals are equally important to describe which problems you won't be fixing so everyone is on the same page.
+
 ## Design
 Page planning:
 
