@@ -54,4 +54,40 @@ cours name, time of departure.
  * COURS DETAILS
  * CHECK AVAILABILITY
  * REGISTER FOR COURS
- * EXIT 
+ * EXIT
+<H4>7. Követelménylista: </H4>
+<table> 
+  <tr>
+    <th>Követelmény sorszáma</th>
+    <th>Követelmény megnevezése</th> 
+    <th>Követelmény kifejtése</th>
+</tr>
+<tr>
+    <th>K01</th>
+    <th>Alkalmazkodás</th>
+  <th>A weblap képes legyen minden eszközön ugyanolyan formában megjelenni.</th>
+</tr>
+<tr>
+    <th>K02</th>
+    <th>Skálázhatóság</th>
+  <th>Az adatok mennyiségének változását jól tudja kezelni és, ha bővíteni kell akkor az sem okoz fenakadást.</th>
+</tr>
+  <tr>
+    <th>K03</th>
+    <th>Tűrőképesség</th>
+  <th>Mivel a weblapot többen fogják használni így bírnia kell a nagyobb adatforgalmat is.</th>
+    <tr>
+    <th>K04</th>
+    <th>Barátságos felület</th>
+    <th>A felhasználót egy könnyen kezelhető barátságos felület fogadjon amiben el tud igazodni.</th>
+      <tr>
+      <th>K05</th>
+    <th>Aktivitási pont</th>
+  <th>A weblapon az aktív felhasználók jutalom pontot kapnak.</th>
+</tr>
+<tr>
+    <th>K06</th>
+    <th>Adatbiztonság</th>
+  <th>Minden felhasználó azonosítva lessz illetve a felhasználó profilja is kap egy egyedi azonosítótt.</th>
+</tr>
+</table>
