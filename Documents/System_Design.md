@@ -22,7 +22,13 @@ In recent years, with the development of the Internet, the application of networ
 
 5. Estimated Budget for the project is 2.000.000 Ft
 
+## Overview
+
+
 ## Design
 Page planning:
 
 Front presentation: home page, detail page,search, register, login, logout
+
+
+
