@@ -69,8 +69,8 @@ cours name, time of departure.
 </tr>
 <tr>
     <th>K02</th>
-    <th></th>
-  <th></th>
+    <th>login</th>
+  <th>The login function let user login according to information from database.</th>
 </tr>
   <tr>
     <th>K03</th>
