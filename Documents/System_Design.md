@@ -51,3 +51,14 @@ if anything uxpected occure ,then we need to fix them.
 ## Maintenance plan
 Since the interface was designed to be as dynamic as possible, the only part of the web that could require maintenance
 is the data API itself. This information can easily be changed by adjusting a single variable in the code,
+
+#### Design:
+
+The project it's sample web applicatin that allow to the users to register in the page.
+there shall be CSS Reference and CSS Properties that will make the page easier to use and understandable.
+this project it will make junior developer increasing his/her knowledge 
+and make them work as a time and also allowing 
+them to contribute a lot to the projects' development.  
+by using classes an id we can divied the work into neat bundles 
+of code which offer a lot of functionality while still being very readable. the work should use simple functionality that will make code 
+neater throughout the entire project so the project will be very simple one.
