@@ -82,3 +82,13 @@ __current situation__
 
 As the world gets more and more efficent technology needs to move along with it, and so we have the idea to create an application that will make it very easy for the user to 
 register for now,we have decided how the project should look like and we have got a team of 5 people who will be working on it.
+
+
+__Functional design__
+
+Login button  - by clicking this button the web sit will take you to your page.
+Search button - this function will work to find the available course that the user searched for.
+SignUp button - this function will take the user to the signup page.
+About button - this function will take the user to the about page.
+Contact button - this function will take the user to the contact page.
+JoinUs button - this function will take the user to the register for a course  page.
