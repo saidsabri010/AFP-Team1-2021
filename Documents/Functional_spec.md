@@ -74,12 +74,12 @@ cours name, time of departure.
 </tr>
   <tr>
     <th>K03</th>
-    <th></th>
-  <th></th>
+    <th>logout</th>
+  <th> The login function let user login according to information from database.</th>
     <tr>
     <th>K04</th>
-    <th></th>
-    <th></th>
+    <th>sign up </th>
+    <th> The sign up function add user information to database.</th>
       <tr>
       <th>K05</th>
     <th></th>
@@ -87,7 +87,7 @@ cours name, time of departure.
 </tr>
 <tr>
     <th>K06</th>
-    <th></th>
-  <th></th>
+    <th>search</th>
+  <th>search available courses on the web cit</th>
 </tr>
 </table>
