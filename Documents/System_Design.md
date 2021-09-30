@@ -65,3 +65,15 @@ neater throughout the entire project so the project will be very simple one.
 
 ##### Functionality:
  First page will have a well designed regestration system page. After which the user will be redirected to their supposed forms, I.e the admin will be directied to the users management form and the user will be taken to the booking flight form where they can fill up the information required.
+
+ ## Testing plan
+
+Test strategy is that,we should test every function one by one ,including system testing
+the tester should have the ability to understand user point of view,then we should test the whole
+program, the goal is that what basic thing user want from our App, is firstly information about flight , so we test flight details first and then we upload it and also , and we test database so that user can easly sign up and then can sign in without any trouble, for testing the booking system we give wrong information if it gives us ticekt so we need to fix it . 
+
+## Testing plan
+
+Test strategy is that,we should test every function one by one ,including system testing
+the tester should have the ability to understand user point of view,then we should test the whole
+program, the goal is that what basic thing user want from our App, is firstly information about flight , so we test flight details first and then we upload it and also , and we test database so that user can easly sign up and then can sign in without any trouble, for testing the booking system we give wrong information if it gives us ticekt so we need to fix it . 
