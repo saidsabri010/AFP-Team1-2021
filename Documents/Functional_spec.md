@@ -55,7 +55,7 @@ cours name, time of departure.
  * CHECK AVAILABILITY
  * REGISTER FOR COURS
  * EXIT
-<H4>7. List Of Requirements: </H4>
+<H4>List Of Requirements: </H4>
 <table> 
   <tr>
     <th>Requirement number</th>
