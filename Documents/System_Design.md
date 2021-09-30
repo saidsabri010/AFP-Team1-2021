@@ -78,4 +78,7 @@ Test strategy is that,we should test every function one by one ,including system
 the tester should have the ability to understand user point of view,then we should test the whole
 program, the goal is that what basic thing user want from our App, is firstly information about flight , so we test flight details first and then we upload it and also , and we test database so that user can easly sign up and then can sign in without any trouble, for testing the booking system we give wrong information if it gives us ticekt so we need to fix it . 
 
+__current situation__
 
+As the world gets more and more efficent technology needs to move along with it, and so we have the idea to create an application that will make it very easy for the user to 
+register for now,we have decided how the project should look like and we have got a team of 5 people who will be working on it.
