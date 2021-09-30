@@ -82,8 +82,8 @@ cours name, time of departure.
     <th> The sign up function add user information to database.</th>
       <tr>
       <th>K05</th>
-    <th></th>
-  <th></th>
+    <th>Contact</th>
+  <th>the user can contact us</th>
 </tr>
 <tr>
     <th>K06</th>
