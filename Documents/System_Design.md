@@ -92,3 +92,13 @@ SignUp button - this function will take the user to the signup page.
 About button - this function will take the user to the about page.
 Contact button - this function will take the user to the contact page.
 JoinUs button - this function will take the user to the register for a course  page.
+
+## Open Questions
+ Any open issues that you aren't sure about, contentious decisions that you'd like readers to weigh in on, suggested future work, and so on. A tongue-in-cheek name for this section is the 'known unknowns'.
+
+ ## Maintenance plan
+
+The resevation system has to evaluated regularly in order to assess whetherthe existing one is still useful or a new reservation system will be needed, by this we remove the existing errors as well as the enhancement of the currently used reservation system. Thus, it is an important stage since it greatly affects the cost that has to be incurred by the Airline Ticket Reservation System  whether modification can still be done or  entirely new reservation system is required.
+
+## Summary
+For the success of this system we will rely mostly on peer programming to minimise the errors that programmers may have. Our main focus will be on creating a user-friendly system that does not discriminate against gender, race, age, ethnic group and so on so our design will be highly maintained by allowing users to send emails should they wish to make comments or complaints about the design.
