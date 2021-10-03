@@ -63,4 +63,39 @@ ul li a:hover{
     margin-left: 270px;
 }
 
+.srch{
+    font-family: 'Times New Roman';
+    width: 200px;
+    height: 40px;
+    background: transparent;
+    border: 1px solid #1be7ee;
+    margin-top: 13px;
+    color: #fff;
+    border-right: none;
+    font-size: 16px;
+    float: left;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    background:#1be7ee ;
+    border:2px solid #1be7ee;
+    margin-top: 13px;
+    color: #fff;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+
+.btn:focus{
+    outline:none;
+}
+.srch:focus{
+    outline:none;
+}
  
