@@ -225,3 +225,18 @@ ul li a :hover{
     border-radius: 10px;
     cursor: pointer;
 }
+
+.content .cn a{
+    text-decoration: none;
+    color: black;
+    transition: none;
+  
+  }
+  .cn:hover{
+      background-color: blanchedalmond;
+   
+  }
+  .content span{
+      color: #1be7ee;
+      font-size: 60px;
+  }
