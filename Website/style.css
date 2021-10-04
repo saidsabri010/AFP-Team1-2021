@@ -245,7 +245,7 @@ ul li a :hover{
 
     width: 250px;
     height: 380px;
-    background: linear-gradient(to top, rgba(0,0,0,0)50%, rgba(0,0,0,0)50%);
+    background: linear-gradient(to top, rgba(0,0,0,0.8)50%, rgba(0,0,0,0.8)50%);
     position: absolute;
     top: 100px;
     left: 220px;
@@ -266,4 +266,19 @@ ul li a :hover{
     margin: 2px;
     padding: 8px;
 
+  }
+
+  .form input {
+      width: 240px;
+      height: 35px;
+      background : transparent;
+      border-bottom: 1px solid #ff7200;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+      color: #fff;
+      font-size: 15px;
+      letter-spacing: 1px;
+      margin-top: 30px;
+      font-family: sans-serif;
   }
