@@ -1,3 +1,26 @@
+<H4>Testing Environment: </H4>
+<table> 
+  <tr>
+    <th>Tester</th> 
+    <th>Operating System</th>
+    <th>Browser</th>
+    <th>Result</th>
+</tr>
+
+<tr>
+    <th>Rachid Aifar</th>
+    <th>Windows 10 64 Bit</th>
+    <th>Google Chrome V.94.0.4606.61</th>
+    <th>it's working</th>
+</tr>
+<tr>
+    <th>Dany Razzoqa</th>
+    <th>Windows 10 64 Bit</th>
+    <th>Google Chrome V.94.0.4606.61</th>
+    <th>it's working</th>
+</tr>
+</table>
+
 <H4>Testing: </H4>
 <table> 
   <tr>
