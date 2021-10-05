@@ -38,6 +38,22 @@ In order to meet the user's efficient requirements, the response time of the dat
 
 The systems UI should be simple enough for a person to find out how it works just by looking at it.
 
+__Goal__
+
+one of the must important goal is to get use to work in a project by being a part of time in software industry, through some controlling tools like git, GitHub, and gitLab, 
+also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team. 
+But our main goal is to learn new technologies and show our ability to change at a moments notice giving us the import skills we need to work in this voltaile world where technology is constantly changing and getting better,and make the life of user and admin easier .
+We want to make sure this application isnt all about the manipulation but also the user experience. If a user enjoys our design and is able to use the website with ease that can be considered a success. We as a team need to work together to make sure that our application can not only show off our skills in data manipulation and be a easy and enjoyable user experience, but also show how we can work as a team and these are the goals for our application.
+
+
+___Glossary__
+
+* HTML : The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+
+* CSS : is a style sheet language used for describing the presentation of a document written in a markup language such as HTML, CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
+* BOOTSTRAP : Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
+
 ## Constrains :
 Design Constraints imposes limitations on the following things:
 * The running environment : Microsoft Visual Studio.
