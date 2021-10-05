@@ -279,7 +279,7 @@ ul li a :hover{
       color: #fff;
       font-size: 15px;
       letter-spacing: 1px;
-      margin-top: 30px;
+      margin-top: 20px;
       font-family: sans-serif;
   }
 
@@ -299,7 +299,7 @@ ul li a :hover{
     border: none;
     margin-top: 30px;
     font-size: 18px;
-    border-radius: 10px;
+    border-radius: 13px;
     cursor: pointer;
     color: #fff;
   }
@@ -313,7 +313,7 @@ ul li a :hover{
   .form .link {
 
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 17px;
+    font-size: 15px;
     padding-top: 20px;
     text-align: center;
     color: #fff;
