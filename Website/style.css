@@ -335,7 +335,15 @@ ul li a :hover{
 .nav{
     width: 30px;
     display: block;
-    margin: 1em 0 0 1em;
+    margin: auto;
+    position: fixed;
+}
+.main2{
+    width:100%;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(1.jpg);
+    background-position: center;
+    background-size: cover;
+    height:110vh; 
 }
 .one{
     width: 30px;
@@ -349,6 +357,19 @@ ul li a :hover{
 }
 .nav:hover div{
     width: 30px;
+}
+.content .t1 .p1{
+    position: fixed;
+}
+.content1{
+    width: 550px;
+    height: 380px;
+    margin: auto;
+    color: #fff;
+    position: relative;
+}
+.content1 .t1{
+    background-color:#2CBBBB;;
 }
 
 
