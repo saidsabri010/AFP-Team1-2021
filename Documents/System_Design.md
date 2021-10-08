@@ -24,7 +24,7 @@ In recent years, with the development of the Internet, the application of networ
 
 ## Overview
 
-A high level summary that every engineer at the company should understand and use to decide if it's useful for them to read the rest of the doc. It should be 3 paragraphs max.
+A high level summary that every engineer at the company should understand and use to decide if it's useful for them to read the rest of the doc. It should be 3 paragraphs max.we will create a useful system design and help our teammate understand how this program usually work ,and we will make this document as helpfull as we can.
 
 ## Goals
 
@@ -32,8 +32,8 @@ describe the user-driven impact of your project ' where your user might be anoth
 
 ## Design
 Page planning:
+Front presentation: home page, detail page,search, register, login, logout. home page would contain some decription,detail page would describe something in detail,register page will help user register in the wesite ,login page will help user login into this page,and we will use a random database to finish this program
 
-Front presentation: home page, detail page,search, register, login, logout
 
 ## Architectural plan
 The application's design is created via HTML and CSS. The HTML contains wrapper classes and classes have boxes 
@@ -50,7 +50,7 @@ if anything uxpected occure ,then we need to fix them.
 
 ## Maintenance plan
 Since the interface was designed to be as dynamic as possible, the only part of the web that could require maintenance
-is the data API itself. This information can easily be changed by adjusting a single variable in the code,
+is the data API itself. This information can easily be changed by adjusting a single variable in the code,our teammate will do the mainly maintenance and fix bug 
 
 #### Design:
 
@@ -94,7 +94,7 @@ Contact button - this function will take the user to the contact page.
 JoinUs button - this function will take the user to the register for a course  page.
 
 ## Open Questions
- Any open issues that you aren't sure about, contentious decisions that you'd like readers to weigh in on, suggested future work, and so on. A tongue-in-cheek name for this section is the 'known unknowns'.
+ Any open issues that you aren't sure about, contentious decisions that you'd like readers to weigh in on, suggested future work, and so on. A tongue-in-cheek name for this section is the 'known unknowns'.we would like to welcome any suggestion that can improve our working environment and the webpage design
 
  ## Maintenance plan
 
