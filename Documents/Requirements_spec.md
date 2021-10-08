@@ -29,9 +29,7 @@ page where the main content will be seted up on.
 
 # Intended audience
 
-Intended to be used by anyone who wants to register 
-for a web application account.
-it can be student , teachers ,anyone
+Intended to be used by anyone who wants to register for a web application account.it can be student , teachers ,tourist or whoever,as long as they register and login ,they can have the total access in this website,there is no other limit of it
 
 __User Needs__
 
