@@ -14,7 +14,7 @@ We have agreed to develop a website for web design and devolepment course . The 
 
 ## Script
 
-User will be able to see the available course name's without registration and that can be done by the search engine, to have full access to the course's the user will need to register through the signup button or Join us button.
+User will be able to see the available course name's without registration and that can be done by the search engine, to have full access to the course's the user will need to register through the signup button or Join us button.And after their login,they can do anything in this website ,they will get the total right to read this website,this is only a static website and nothing is dynamic,and user may still log out
 
 ## List Of Requirements
 
@@ -25,7 +25,8 @@ User will be able to see the available course name's without registration and th
 
 ## UI Plan
 
-The interface will be a not so complicated one, a simple login screen and logout and sign up and Search and a dashboard that will have buttons such as; About, Contact Us.a bit of explaination about web designing.
+The interface will be a not so complicated one, a simple login screen and logout and sign up and Search and a dashboard that will have buttons such as; About, Contact Us.a bit of explaination about web designing.our user can simply click these buttons and the website will give reaction,
+this website is a total static website so there is no many user interface
 
 ## How the system should be and what it should not be  ?
 
