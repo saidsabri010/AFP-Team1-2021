@@ -1,3 +1,5 @@
+<?php include('server.php') ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,13 +20,14 @@
 
         <div class="form">
             <h2>Login Here</h2>
-            <form action="">
+            <form action="Registration.php" method="POST">
+            <?php include('errors.php') ?>
                 <input style="margin-bottom: 13px;" type ="email" name="email" placeholder="Email">
                 <input style="margin-bottom: 13px;" type="password" name="password" placeholder="Password">
                 <button style="margin-bottom: 13px;" class="btnn"><a href="#"></a>Login</button>
             </form>
             <p class="link" >Don't have an account<br>
-            <a href="login.html">Sign up</a> here</a></p>
+            <a href="login.php">Sign up</a> here</a></p>
         </div>
         <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
     </div>
