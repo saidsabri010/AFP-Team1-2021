@@ -1,3 +1,5 @@
+<?php include('errors.php') ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +10,7 @@
 </head>
 <body>
     <div class="main">
-        <a href="index.html" class="nav">
+        <a href="index.php" class="nav">
           <div class="one"></div>
           <div class="two"></div>
           <div class="three"></div>

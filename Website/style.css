@@ -451,7 +451,10 @@ ul li a :hover{
 .form2 .f1{
     color: black;
 }
-
+.errors{
+    color: #1be7ee;
+    size: 4ch;
+}
 
 
 

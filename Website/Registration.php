@@ -14,7 +14,7 @@
 <body>
      <div class="main">   
             <ul>
-               <li><a href="index.html">HOME</a></li> 
+               <li><a href="index.php">HOME</a></li> 
             </ul> 
      </div>
 
@@ -24,7 +24,8 @@
             <?php include('errors.php') ?>
                 <input style="margin-bottom: 13px;" type ="email" name="email" placeholder="Email">
                 <input style="margin-bottom: 13px;" type="password" name="password" placeholder="Password">
-                <button style="margin-bottom: 13px;" class="btnn"><a href="#"></a>Login</button>
+                <button
+                name="login" style="margin-bottom: 13px;" class="btnn"><a href="#"></a>Login</button>
             </form>
             <p class="link" >Don't have an account<br>
             <a href="login.php">Sign up</a> here</a></p>

@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="main">
-        <a href="index.html" class="nav">
+        <a href="index.php" class="nav">
           <div class="one"></div>
           <div class="two"></div>
           <div class="three"></div>
