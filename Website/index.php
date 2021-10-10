@@ -1,3 +1,5 @@
+<?php include('server.php') ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,10 +19,10 @@
             <div class="menu">
                  <ul>
                     <li><a href="#">HOME</a></li> 
-                    <li><a href="about.html">ABOUT</a></li>  
-                    <li><a href="service.html">SERVICE</a></li>  
-                    <li><a href="design.html">DESIGN</a></li>
-                    <li><a href="contact.html">CONTACT</a></li>
+                    <li><a href="about.php">ABOUT</a></li>  
+                    <li><a href="service.php">SERVICE</a></li>  
+                    <li><a href="design.php">DESIGN</a></li>
+                    <li><a href="contact.php">CONTACT</a></li>
                  </ul> 
             </div>
             <div class="search">
@@ -32,8 +34,8 @@
           <p class="par">in this web page you can register for any programming course to make yourself better in programming <br> 
               our aim of making this web page is to make your study easier and help you to be a good developer
               </p>
-              <button class="cn"><a href="login.html">Register Now</a></button>
-              <button class="cn"><a href="Registration.html">Login Now</a></button>
+              <button class="cn"><a href="login.php">Register Now</a></button>
+              <button class="cn"><a href="Registration.php">Login Now</a></button>
         </div>
   
   

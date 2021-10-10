@@ -1,3 +1,5 @@
+<?php include('server.php') ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,9 +20,9 @@
 
         <div class="menu">
              <ul>
-                <li><a href="index.html">HOME</a></li> 
-                <li><a href="#">SERVICE</a></li>  
-                <li><a href="#">CONTACT</a></li>
+                <li><a href="index.php">HOME</a></li> 
+                <li><a href="service.php">SERVICE</a></li>  
+                <li><a href="contact.php">CONTACT</a></li>
              </ul> 
         </div>
 
@@ -31,10 +33,10 @@
                 <input type ="email" name="email" placeholder="Email">
                 <input type="password" name="password" placeholder="Password">
                 <input type="password" name="confirm_password" placeholder="Confirm Password">
-                <button class="btnn"><a href="#"></a>Login</button>
+                <button name=register class="btnn" ><a href="#"></a>Register</button>
             </form>
             <p class="link" >you already have an account<br>
-            <a href="Registration.html">Sign in</a> here</a></p>
+            <a href="Registration.php">Sign in</a> here</a></p>
         </div>
         <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
 </body>
