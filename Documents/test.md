@@ -107,3 +107,13 @@
 * ACTUAL RESULT:  Popup window with the message "login failed. wrong password or username" 
 * PASS/FAIL:      Pass
 ==================================================
+* TEST ID:        4
+* TEST SCENARIO:  Try to register with empty username or password or email
+* TEST STEPS:     Go to index.php => register
+* TEST DATA:    USERNAME: XXXXXX
+                EMAIL   : email@example.com
+                PASSWORD: 123456
+* EXPECTED RESULT:Popup window with the message "Please fill out this field"  
+* ACTUAL RESULT:  Popup window with the message "Please fill out this field" 
+* PASS/FAIL:      Pass
+==================================================
