@@ -30,10 +30,10 @@
             <h2>Sign Up Here</h2>
             <form action= "login.php"  method="POST">
             <?php include('errors.php') ?>
-                <input type ="text" name="username" placeholder="Username">
-                <input type ="email" name="email" placeholder="Email">
-                <input type="password" name="password" placeholder="Password">
-                <input type="password" name="confirm_password" placeholder="Confirm Password">
+                <input type ="text" name="username" placeholder="Username" required>
+                <input type ="email" name="email" placeholder="Email" required>
+                <input type="password" name="password" placeholder="Password" required>
+                <input type="password" name="confirm_password" placeholder="Confirm Password" required>
                 <button name=register class="btnn" ><a href="#"></a>Register</button>
             </form>
             <p class="link" >you already have an account<br>

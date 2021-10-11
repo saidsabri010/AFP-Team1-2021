@@ -20,7 +20,7 @@
           <form class="f1" action="contact.php" method="POST">  
           <input type="email" name="email" placeholder="Email" required />
             <input type="text" name="subject" placeholder="subject" required />
-            <textarea placeholder="Message" name="message" onkeyup="adjust_textarea(this)" reuired></textarea>
+            <textarea placeholder="Message" name="message" onkeyup="adjust_textarea(this)" required></textarea>
             <button name="contact" style="margin-bottom: 13px;" class="btnn"><a href="#"></a>send message</button>
           </form>
         </div>
