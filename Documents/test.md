@@ -84,3 +84,14 @@
 * EXPECTED RESULT:Rediract to login.php main page  
 * ACTUAL RESULT:  Popup window notified tester that they were successfully registered
 * PASS/FAIL:      Pass 
+
+==================================================
+* TEST ID:        2
+* TEST SCENARIO:  Try to register a duplicate user
+* TEST STEPS:     Go to register.php => click Register => enter invalid data
+* TEST DATA:    USERNAME: XXXXXX
+                EMAIL   : email@example.com
+                PASSWORD: 123456
+* EXPECTED RESULT:Popup window notifies user that user with this name already exists  
+* ACTUAL RESULT:  Popup window notified tester that user with this name already exists 
+* PASS/FAIL:      Pass
