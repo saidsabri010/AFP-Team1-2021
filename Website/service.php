@@ -8,12 +8,23 @@
       <link rel="shortcut icon" type="image/x-icon" href="images.png">
 </head>
 <body>
-    <div class="main">
+
+    <div class="main2">
         <a href="index.php" class="nav">
           <div class="one"></div>
           <div class="two"></div>
           <div class="three"></div>
         </a>
+
+
+        <div class="content1">
+        <h3 class ="t1">SPECIAL EDUCATION</h3>
+        <p class="p1"> Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+        
       </div>
+     
+     </div>
+
+     
 
 </body>
