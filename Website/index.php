@@ -21,7 +21,6 @@
                     <li><a href="#">HOME</a></li> 
                     <li><a href="about.php">ABOUT</a></li>  
                     <li><a href="service.php">SERVICE</a></li>  
-                    <li><a href="design.php">DESIGN</a></li>
                     <li><a href="contact.php">CONTACT</a></li>
                  </ul> 
             </div>
