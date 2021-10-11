@@ -55,24 +55,45 @@
 </tr>
   <tr>
     <th>K03</th>
-    <th>logout</th>
-  <th> The login function let user login according to information from database.</th>
-    <tr>
+    <th>Rachid Aifar</th>
+    <th>login</th>
+    <th>2021/10/12</th>
+    <th>The login function let user login according to information from database .</th>
+    <th>the user can enter the profil</th>
+    <th>it's working</th>
+   
+   
+</tr>
+   <tr>
     <th>K04</th>
-    <th>sign up </th>
-    <th> The sign up function add user information to database.</th>
-      <tr>
-      <th>K05</th>
-    <th>Contact</th>
-  <th>the user can contact us</th>
+    <th>Dani Razzoqa</th>
+    <th>signup</th>
+    <th>2021/10/12</th>
+    <th>The login function let user signup according to information from database.</th>
+    <th>the user can register the page</th>
+     <th>it's working</th>
+</tr>
+     <tr>
+    <th>K05</th>
+    <th>Rachid Aifar</th>
+    <th>contact</th>
+    <th>2021/10/12</th>
+    <th>The contact function let user conatct with the programmer.</th>
+    <th>the user can conatct us</th>
+    <th>it's working</th>
+   
+   
 </tr>
 <tr>
     <th>K06</th>
-    <th>search</th>
-  <th>search available courses on the web cit</th>
+    <th>dani razoqqa</th>
+    <th>home</th>
+    <th>2021/10/12</th>
+    <th>The home function let user go back home page.</th>
+    <th>the user can go back home page  </th>
+    <th>it's working</th>
 </tr>
 </table>
-
 ==================================================
 * TEST ID:        1
 * TEST SCENARIO:  Register with valid data 
