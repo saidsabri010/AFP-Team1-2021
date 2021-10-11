@@ -95,6 +95,7 @@
 </tr>
 </table>
 ==================================================
+
 * TEST ID:        1
 * TEST SCENARIO:  Register with valid data 
 * TEST STEPS:     Go to the register.php page => click on Register button => enter test data => click Sign Up
@@ -107,6 +108,7 @@
 * PASS/FAIL:      Pass 
 
 ==================================================
+
 * TEST ID:        2
 * TEST SCENARIO:  Try to register a duplicate user
 * TEST STEPS:     Go to register.php => click Register => enter invalid data
@@ -127,6 +129,7 @@
 * EXPECTED RESULT:Popup window with the message "login failed. wrong password or username"  
 * ACTUAL RESULT:  Popup window with the message "login failed. wrong password or username" 
 * PASS/FAIL:      Pass
+
 ==================================================
 * TEST ID:        4
 * TEST SCENARIO:  Try to register with empty username or password or email
@@ -137,4 +140,5 @@
 * EXPECTED RESULT:Popup window with the message "Please fill out this field"  
 * ACTUAL RESULT:  Popup window with the message "Please fill out this field" 
 * PASS/FAIL:      Pass
+
 ==================================================
