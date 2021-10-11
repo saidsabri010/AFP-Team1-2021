@@ -74,13 +74,13 @@
 </table>
 
 ==================================================
-TEST ID:        1
-TEST SCENARIO:  Register with valid data
-TEST STEPS:     Go to the register.php page => click on Register button => enter test data => click Sign Up
-TEST DATA:      USERNAME: XXXXXX
+* TEST ID:        1
+* TEST SCENARIO:  Register with valid data 
+* TEST STEPS:     Go to the register.php page => click on Register button => enter test data => click Sign Up
+* TEST DATA:    USERNAME: XXXXXX
                 EMAIL   : email@example.com
                 PASSWORD: 123456
                 PASSWORD CONF : 123456
-EXPECTED RESULT:Rediract to login.php main page  
-ACTUAL RESULT:  Popup window notified tester that they were successfully registered
-PASS/FAIL:      Pass 
+* EXPECTED RESULT:Rediract to login.php main page  
+* ACTUAL RESULT:  Popup window notified tester that they were successfully registered
+* PASS/FAIL:      Pass 
