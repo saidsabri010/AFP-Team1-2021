@@ -20,6 +20,8 @@
         <div class="content1">
         <h3 class ="t1">SPECIAL EDUCATION</h3>
         <p class="p1"> Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+        <h3 class ="t1">ONLINE EDUCATION </h3>
+        <p class="p1"> Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
         
       </div>
      
