@@ -95,3 +95,15 @@
 * EXPECTED RESULT:Popup window notifies user that user with this name already exists  
 * ACTUAL RESULT:  Popup window notified tester that user with this name already exists 
 * PASS/FAIL:      Pass
+
+==================================================
+* TEST ID:        3
+* TEST SCENARIO:  Try to login with invalid username
+* TEST STEPS:     Go to index.php => Log in => enter invalid data
+* TEST DATA:      USERNAME: XXXXXX
+                EMAIL   : email@example.com
+                PASSWORD: 123456
+* EXPECTED RESULT:Popup window with the message "login failed. wrong password or username"  
+* ACTUAL RESULT:  Popup window with the message "login failed. wrong password or username" 
+* PASS/FAIL:      Pass
+==================================================
