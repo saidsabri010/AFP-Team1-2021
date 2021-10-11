@@ -142,3 +142,14 @@
 * PASS/FAIL:      Pass
 
 ==================================================
+
+* TEST ID:        5
+* TEST SCENARIO:  Try to send message with empty email or subject or message
+* TEST STEPS:     Go to index.php => contact => send with empty field
+* TEST DATA:    USERNAME: 
+                subject   : email@example.com
+                message: 123456
+* EXPECTED RESULT:Popup window with the message "Please fill out this field"  
+* ACTUAL RESULT:  Popup window with the message "Please fill out this field" 
+* PASS/FAIL:      Pass
+
