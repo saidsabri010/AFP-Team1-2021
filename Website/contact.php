@@ -17,12 +17,11 @@
         </a>
         <div class="form2">
           <h2>contact Us</h2>
-          <form class="f1">
-            <input type="text" name="field1" placeholder="Full Name"/>
-            <input type="email" name="field2" placeholder="Email" />
-            <input type="url" name="field3" placeholder="Website" />
-            <textarea placeholder="Message" onkeyup="adjust_textarea(this)"></textarea>
-            <input type="button" value="Send Message" />
+          <form class="f1" action="contact.php" method="POST">  
+          <input type="email" name="email" placeholder="Email" required />
+            <input type="text" name="subject" placeholder="subject" required />
+            <textarea placeholder="Message" name="message" onkeyup="adjust_textarea(this)" reuired></textarea>
+            <button name="contact" style="margin-bottom: 13px;" class="btnn"><a href="#"></a>send message</button>
           </form>
         </div>
 

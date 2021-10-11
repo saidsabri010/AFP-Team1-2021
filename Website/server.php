@@ -71,4 +71,18 @@ if(isset($_POST['login'])){
           
     }
 }
+if(isset($_POST['contact'])){
+    $email=mysqli_real_escape_string($db,$_POST['email']);
+    $subject=mysqli_real_escape_string($db,$_POST['subject']);
+    $message=mysqli_real_escape_string($db,$_POST['message']);
+
+    $insert="INSERT INTO message (email,subject,message) VALUES ('$email','$subject','$message')";
+    mysqli_query($db,$insert);
+
+    if($insert){
+        echo 'your message was sent successufly';
+        exit();
+    }
+}
+
 ?>
