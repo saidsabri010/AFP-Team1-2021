@@ -24,11 +24,14 @@ In recent years, with the development of the Internet, the application of networ
 
 ## Overview
 
-A high level summary that every engineer at the company should understand and use to decide if it's useful for them to read the rest of the doc. It should be 3 paragraphs max.we will create a useful system design and help our teammate understand how this program usually work ,and we will make this document as helpfull as we can.
+The team is using html to develop a web page where users can log in and register.A high level summary that every engineer at the company should understand and use to decide if it's useful for them to read the rest of the doc. It should be 3 paragraphs max.we will create a useful system design and help our teammate understand how this program usually work ,and we will make this document as helpfull as we can.
 
 ## Goals
 
 describe the user-driven impact of your project ' where your user might be another engineering team or even another technical system specify how to measure success using metrics ' bonus points if you can link to a dashboard that tracks those metrics Non-Goals are equally important to describe which problems you won't be fixing so everyone is on the same page.
+
+## Context
+Everyone at this time has the required knowledge to make this project work, we would like to see all pages implemented in the first month and having all the fucntionality in the second month. any remaining time can be spent on making the website look better. main causes for concern would be to get the full working application out as soon as possible to comply with deadlines and get our grades. the appearance of the website can be changed as the team feels.
 
 ## Design
 Page planning:
