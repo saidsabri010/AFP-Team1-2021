@@ -1,0 +1,21 @@
+1 Install Powershell 7 ( not the windows one)
+2.Install Xampp
+	PL: C:\xampp\php és C:\xampp\php\php.exe
+3 install git and gitkraken
+4 install nodejs latest version
+5 install yarn, run powershell as admin and execute the following command: npm install -g yarn
+6 install ps mod with the following command:
+	Set-ExecutionPolicy Bypass -Scope Process -Force ; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072 ;Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/ps-mod/ps-mod/main/install.ps1'))
+	Restart powershell
+7 install PHP storm and the listed plugins
+- .env files support
+- .ignore
+- Laravel
+- Laravel Idea
+- Laravel Live Templates
+- PHP Annotations
+8, install composer
+
+Recommended commands:
+lumen init  // Creating new project (Prototype/Example)
+lumen compose  // has to run it every day so  Laravel can compile the project. 
