@@ -9,6 +9,7 @@ We, as a team setting up our environment to startup our group project with the f
 5. Rachid Aifar
 6. Pelle Marcell
 7. SHIYI WAN
+8. Rach
 
 We have agreed to develop a website for web design and devolepment course . The website will have a simple login as well as search engine. Currently we are working on documentation which is an integral part of our website. This will give us ideas so that we will have a better understanding when it comes to implementation of our project.
 
